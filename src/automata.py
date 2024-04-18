@@ -48,3 +48,7 @@ def process(automata, words):
 
     for word in words:
         # tenta reconhecer `word`
+
+
+def convert_to_dfa(automata):
+    """Converte um NFA num DFA."""

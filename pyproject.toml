@@ -1,6 +1,6 @@
 [project]
-name = "automata-2024-t1"
-description = "Trabalho T1 da disciplina Linguagens Formais, do curso de Ciência da Computação, da Universidade LaSalle Canoas."
+name = "automata-2024-t2"
+description = "Trabalho T2 da disciplina Linguagens Formais, do curso de Ciência da Computação, da Universidade LaSalle Canoas."
 readme = "README.md"
 version = "1.04.2024"
 requires-python = ">=3.11"
@@ -8,7 +8,7 @@ license = { file="COPYING" }
 
 classifiers = [
   "Intended Audience :: Education",
-  "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+  "License :: OSI Approved :: MIT License",
 ]
 
 dependencies = [
@@ -19,11 +19,11 @@ dependencies = [
 tox = [ "tox" ]
 
 [project.urls]
-homepage = "https://github.com/rafasgj/automata-2024-t1"
-repository = "https://github.com/rafasgj/automata-2024-t1"
-issues = "https://github.com/rafasgj/automata-2024-t1/issues"
-pull_requests = "https://github.com/rafasgj/automata-2024-t1/pulls"
-discussions = "https://github.com/rafasgj/automata-2024-t1/discussions"
+homepage = "https://github.com/rafasgj/automata-2024-t2"
+repository = "https://github.com/rafasgj/automata-2024-t2"
+issues = "https://github.com/rafasgj/automata-2024-t2/issues"
+pull_requests = "https://github.com/rafasgj/automata-2024-t2/pulls"
+discussions = "https://github.com/rafasgj/automata-2024-t2/discussions"
 
 [build-system]
 requires = ["setuptools"]

@@ -1,11 +1,13 @@
-automata-2024-t1
-================
+automata-2024-t2
+====================
+
+Exemplo de projeto com avaliação automática de resultados.
 
 Preparação para a execução do trabalho
 --------------------------------------
 
 Para iniciar este trabalho, faça um _fork_ do repositório 
-[https://github.com/exercicios-programacao/automata-2024-t1](https://github.com/exercicios-programacao/automata-2024-t1)
+[https://github.com/exercicios-programacao/automata-2024-t2](https://github.com/exercicios-programacao/automata-2024-t2)
 para o seu usuário do Github.
 
 Siga as orientações para a preparação do ambiente de desenvolvimento 
@@ -77,7 +79,7 @@ Entrega
 
 Para entregar o trabalho, faça commit do código, envie para o seu _fork_ no 
 Github, e abra um _pull request_ contra o
-[repositório original](https://github.com/exercicios-programacao/automata-2024-t1).
+[repositório original](https://github.com/exercicios-programacao/automata-2024-t2).
 
 O título do _pull request_ deve conter o nome do aluno que o está criando. 
 Na mensagem deve constar o nome completo do autor do _pull request_, e de 
@@ -93,4 +95,4 @@ Discussões Online
 -----------------
 
 Dúvidas e disccussões sobre o trabalho podem ser realizadas utilizando as
-[discussões do Github](https://github.com/exercicios-programacao/automata-2024-t1/discussions).
+[discussões do Github](https://github.com/exercicios-programacao/automata-2024-t2/discussions).

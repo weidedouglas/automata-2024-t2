@@ -133,3 +133,6 @@ def Transicao(regrasTransicao, estadoAtual, word):
             return transicao[2]
     return None
  
+
+def convert_to_dfa(automata):
+    """Converte um NFA num DFA."""
